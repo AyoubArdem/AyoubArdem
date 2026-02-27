@@ -45,17 +45,13 @@ My focus is building reliable, scalable, and maintainable AI products for real-w
 - Scalable backend architecture for AI services
 - Operational excellence through CI/CD and automation
 
-## Featured Project
-### AI Accelerator
-Production-ready MLOps platform to deploy, monitor, and govern ML models.
 
-- Repo: https://github.com/AyoubArdem/AI_Accelerator
-- PyPI: https://pypi.org/project/ai-accelerator/
+## Featured Work
+- **AI Accelerator** — deploy, monitor, and govern ML models in production  
+  Repo: https://github.com/AyoubArdem/AI_Accelerator  
+  PyPI: https://pypi.org/project/ai-accelerator/
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyoubArdem&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubArdem&layout=compact&hide_border=true)
-
+  
 ## Connect
 - GitHub: https://github.com/AyoubArdem
 - LinkedIn: https://www.linkedin.com/in/ayoub-student-08832b2b3
