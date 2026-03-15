@@ -22,6 +22,7 @@ My focus is building reliable, scalable, and maintainable AI products for real-w
 ### DevOps & MLOps
 - Docker
 - Jenkins
+- Kubernets
 - GitHub Actions
 - Linux
 
