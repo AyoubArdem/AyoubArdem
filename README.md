@@ -112,7 +112,7 @@
 
 | | | | |
 |:-:|:-:|:-:|:-:|
-| [![2](https://img.shields.io/badge/2-PyPI%20Packages-blue?style=for-the-badge&logo=python)](https://pypi.org/user/AyoubArdem/) | [![2](https://img.shields.io/badge/2-Production%20Systems-green?style=for-the-badge&logo=rocket)](https://github.com/AyoubArdem) | [![2](https://img.shields.io/badge/2-Portfolio%20Collections-orange?style=for-the-badge&logo=book)](https://github.com/AyoubArdem) | [![5](https://img.shields.io/badge/5-Core%20Domains-purple?style=for-the-badge&logo=sparkles)](https://github.com/AyoubArdem) |
+| [![2](https://img.shields.io/badge/2-PyPI%20Packages-blue?style=for-the-badge&logo=python)](https://pypi.org/user/ayoub_student_0x01/) | [![2](https://img.shields.io/badge/2-Production%20Systems-green?style=for-the-badge&logo=rocket)](https://github.com/AyoubArdem) | [![2](https://img.shields.io/badge/2-Portfolio%20Collections-orange?style=for-the-badge&logo=book)](https://github.com/AyoubArdem) | [![5](https://img.shields.io/badge/5-Core%20Domains-purple?style=for-the-badge&logo=sparkles)](https://github.com/AyoubArdem) |
 | Distributed across<br/>Python ecosystem | Actively serving<br/>ML teams | 9 distinct<br/>ML/DL architectures | MLOps • Automation<br/>CV • NLP • Security |
 
 </div>
