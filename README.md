@@ -20,7 +20,7 @@
 
 ```
 🤖 AI/ML Frameworks
-   PyTorch • TensorFlow/Keras • scikit-learn • LangChain • Transformers
+   PyTorch • TensorFlow/Keras • scikit-learn • LangChain • Hugging Face
 
 🧠 Deep Learning
    CNN • RNN • LSTM • DNN • Transfer Learning • Fine-tuning • Quantization
@@ -108,12 +108,16 @@
 
 ## 📊 Impact by Numbers
 
-```
-📦 3 PyPI Packages        — Distributed across Python ecosystem
-🏢 2 Production Systems   — Actively serving ML teams & developers
-📂 2 Portfolio Collections — 10+ distinct ML/DL architectures
-🌍 5 Core Domains        — MLOps • Automation • CV • NLP • Security (incoming)
-```
+<div align="center">
+
+| | | | |
+|:-:|:-:|:-:|:-:|
+| [![2](https://img.shields.io/badge/2-PyPI%20Packages-blue?style=for-the-badge&logo=python)](https://pypi.org/user/AyoubArdem/) | [![2](https://img.shields.io/badge/2-Production%20Systems-green?style=for-the-badge&logo=rocket)](https://github.com/AyoubArdem) | [![2](https://img.shields.io/badge/2-Portfolio%20Collections-orange?style=for-the-badge&logo=book)](https://github.com/AyoubArdem) | [![5](https://img.shields.io/badge/5-Core%20Domains-purple?style=for-the-badge&logo=sparkles)](https://github.com/AyoubArdem) |
+| Distributed across<br/>Python ecosystem | Actively serving<br/>ML teams | 9 distinct<br/>ML/DL architectures | MLOps • Automation<br/>CV • NLP • Security |
+
+</div>
+
+---
 
 ---
 
