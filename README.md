@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects
 
-### **AI Accelerator** — Enterprise MLOps Platform
+### **AI Accelerator** — Early Stage MLOps Platform
 *Open-source foundation for production ML teams*
 
 - **Stack:** Django/DRF • FastAPI • Celery • Kubernetes
